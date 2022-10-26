@@ -1,0 +1,11 @@
+nome = input('Digite o seu nome: ')
+cpf = input('Digite o seu cpf: ')
+endereco = input('Digite o seu endereço: ')
+altura = input('Digite a sua altura: ')
+telefone = input('Digite o seu telefone: ')
+
+print('Nome:', nome)
+print('CPF:', cpf)
+print('Endereço:', endereco)
+print('Altura:', altura)
+print('Telefone:', telefone)
